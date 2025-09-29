@@ -1,16 +1,15 @@
 # Alejandro Verdesoto
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis 
-proyectos y las tecnologías en las que me desenvuelvo. 
-## Contenido 
-* [Información personal](#información-personal) 
-* [Proyectos](#proyectos) 
-* [Intereses](#intereses) 
-## Información personal 
-* Nombre: [Tu nombre] 
-* Ocupación: [Tu ocupación] 
-* Lugar de residencia: [Tu lugar de residencia] 
-* Sitio web: [Tu sitio web] 
-## Proyectos 
-* [Lista de tus proyectos] 
-## Tecnologías 
-* [Lista de tus intereses]
+Data Science and Artificial Intelligence Engineer in Process
+
+## Personal Information
+* College: Espol (Escuela Superior Politécnica del Litoral)
+* Email for contact: vavfaccfu10@gmail.com 
+* Country of Residence: Ecuador
+  
+## Projects
+* Still working on them
+  
+## Technologies
+* Python
+* MySQL
+* Java
