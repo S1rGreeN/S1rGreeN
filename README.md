@@ -1,4 +1,4 @@
-# Alejandro Verdesoto
+# About me and what I do
 Data Science and Artificial Intelligence Engineer in Process
 
 ## Personal Information
